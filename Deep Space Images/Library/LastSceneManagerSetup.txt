@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/nuilab/Scene/ImageToPointCloud.unity
+  isLoaded: 1
+  isActive: 1
